@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.efc2a603.css",
+    "main.css": "/Portafolio/static/css/main.c2f386b6.css",
     "main.js": "/Portafolio/static/js/main.7acc7b7d.js",
     "static/js/453.a9c87868.chunk.js": "/Portafolio/static/js/453.a9c87868.chunk.js",
     "static/media/Marco-Pica (1).png": "/Portafolio/static/media/Marco-Pica (1).61016e5380dbcdc1e950.png",
@@ -16,12 +16,12 @@
     "static/media/html.png": "/Portafolio/static/media/html.433fda35ec3b24cb2a74.png",
     "static/media/js.png": "/Portafolio/static/media/js.266bd9fb2663dcc057b4.png",
     "index.html": "/Portafolio/index.html",
-    "main.efc2a603.css.map": "/Portafolio/static/css/main.efc2a603.css.map",
+    "main.c2f386b6.css.map": "/Portafolio/static/css/main.c2f386b6.css.map",
     "main.7acc7b7d.js.map": "/Portafolio/static/js/main.7acc7b7d.js.map",
     "453.a9c87868.chunk.js.map": "/Portafolio/static/js/453.a9c87868.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efc2a603.css",
+    "static/css/main.c2f386b6.css",
     "static/js/main.7acc7b7d.js"
   ]
 }
