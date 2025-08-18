@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.efc2a603.css",
+    "main.js": "/Portafolio/static/js/main.7acc7b7d.js",
+    "static/js/453.a9c87868.chunk.js": "/Portafolio/static/js/453.a9c87868.chunk.js",
+    "static/media/Marco-Pica (1).png": "/Portafolio/static/media/Marco-Pica (1).61016e5380dbcdc1e950.png",
+    "static/media/Code.gif": "/Portafolio/static/media/Code.d69e4dc8ec89ca4a86c4.gif",
+    "static/media/node.png": "/Portafolio/static/media/node.10d448aeace01be90ffa.png",
+    "static/media/react.png": "/Portafolio/static/media/react.bafc2a1dcbb5c8d3aefc.png",
+    "static/media/link.png": "/Portafolio/static/media/link.462bcb655b4aa3b11b8b.png",
+    "static/media/css.png": "/Portafolio/static/media/css.e8e133cfdfaba93cb776.png",
+    "static/media/pyhton.png": "/Portafolio/static/media/pyhton.0ba11c3b5946b9f1c82d.png",
+    "static/media/spring.png": "/Portafolio/static/media/spring.023cae87f36832d155bd.png",
+    "static/media/sql.png": "/Portafolio/static/media/sql.26458ccfa711dd78ba3d.png",
+    "static/media/java.png": "/Portafolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/html.png": "/Portafolio/static/media/html.433fda35ec3b24cb2a74.png",
+    "static/media/js.png": "/Portafolio/static/media/js.266bd9fb2663dcc057b4.png",
+    "index.html": "/Portafolio/index.html",
+    "main.efc2a603.css.map": "/Portafolio/static/css/main.efc2a603.css.map",
+    "main.7acc7b7d.js.map": "/Portafolio/static/js/main.7acc7b7d.js.map",
+    "453.a9c87868.chunk.js.map": "/Portafolio/static/js/453.a9c87868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc2a603.css",
+    "static/js/main.7acc7b7d.js"
+  ]
+}
