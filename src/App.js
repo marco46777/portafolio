@@ -104,12 +104,12 @@ calidad del software y buenas prácticas de desarrollo web.
   <div className="form-title1">Estudios</div>
 
   <div className="estu-card">
-     <FontAwesomeIcon icon={faGraduationCap} className="icono-estudio" />
+    <FontAwesomeIcon icon={faGraduationCap} className="icono-estudio" />
     Sistemas, Ingenieria de Sistemas -Tecnologico Comfenalco, Cartagena de Indeas <span className="fecha">2025-Presente</span>
   </div>
 
   <div className="estu-card">
-     <FontAwesomeIcon icon={faGraduationCap} className="icono-estudio" />
+    <FontAwesomeIcon icon={faGraduationCap} className="icono-estudio" />
     Sistemas, Tecnología en Desarrollo de Software -Tecnologico Comfenalco, Cartagena de Indeas <span className="fecha">2022-2024</span>
   </div>
 </div>

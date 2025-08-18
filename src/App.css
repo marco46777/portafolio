@@ -1,3 +1,4 @@
+/*HEADER*/
 header {
   position: relative; /* o fixed si quieres que quede pegado arriba */
   z-index: 10;        /* mayor que la imagen */
@@ -5,6 +6,7 @@ header {
   padding-bottom: 10px; 
 
 }
+/*MENU*/
 .menu ul {
   display: flex;           
   justify-content: center; 
@@ -28,6 +30,7 @@ header {
 html {
   scroll-behavior: smooth;
 }
+/*APP*/
 .App {
   text-align: center;
 }
@@ -91,7 +94,7 @@ h3{
 h4{
   padding-left: 670px;
   top: 90px;
-  right: 600px;
+  right: 550px;
   position: relative;
   color: white;
   font-family: 'Consolas', 'Courier New', monospace;
@@ -102,7 +105,7 @@ h4{
   border-radius: 50%;
   position: relative;
   left: 340px;
-  margin-top: -90px;
+  margin-top: -120px;
   box-shadow: 0 0 15px rgba(255,255,255,0.3);
 }
 .Marco-logo:hover{
@@ -332,4 +335,64 @@ p{
   top: 10px;
   justify-content: center;
   position: relative;
+}
+/*RESPONSIVE*/
+
+@media(max-width: 990px){
+.Card{
+  margin-top: -420px;
+  }
+
+h3{
+  top: 50px;
+  left: 215px !important;
+}
+.Marco-logo{
+  width: 20%;
+  left: 280px !important;
+  top: -90px;
+}
+
+}
+
+@media(max-width: 480px){
+.Card{
+  margin-top: -200px;
+  }
+  body{
+    max-width: 100%;
+  }
+  .menu li a {
+  font-size: 5px;
+  font-weight: bold;
+  padding: 2px 5px;     
+  transition: 0.3s;
+}
+h1{
+  font-size: 13px !important;
+  position: relative;
+  
+}
+h2{
+  font-size: 8px !important;
+  position: relative;
+}
+h4{
+  top: 20px;
+  font-size: 10px;
+}
+h3{
+  font-size: 12px !important;
+  top: 20px;
+  left: 135px !important;
+}
+.skill-card{
+  width: 10px;
+  padding: 20px;
+}
+.Marco-logo{
+  width: 25%;
+  left: 110px !important;
+  top: -130px;
+}
 }
